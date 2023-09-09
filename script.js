@@ -12,7 +12,7 @@ function displayCurrentDate() {
 }
 
 function updateTimeBlockColors() {
-  var currentHour = 10;
+  var currentHour = dayjs().hour();;
 
   $(".time-block").each(function () {
       var timeBlockHour = parseInt($(this).attr("id").split("-")[1]);

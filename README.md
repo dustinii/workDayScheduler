@@ -41,7 +41,7 @@ The Work Day Scheduler is a browser-based calendar application that allows users
 5. Refresh the page to see that your event persists.
 
 ## Deployed Application
-[WorkDay Scheduler]()
+[WorkDay Scheduler](https://dustinii.github.io/workDayScheduler/)
 
 ## License
 
